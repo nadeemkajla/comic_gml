@@ -3,8 +3,8 @@ import random
 import networkx as nx
 import pandas as pd 
 
-__author__ = "Nadeem Kajla"
-__email__ = "nadeem.kajla@gmail.com"
+__author__ = "Nadeem Iqbal Kajla"
+__email__ = "nadeem.iqbal@mnsuam.edu.pk"
 
 
 def get_graph(filename, directed):
