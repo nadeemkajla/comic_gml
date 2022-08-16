@@ -6,8 +6,8 @@ import random
 
 from utils import get_graph, get_neighbours
 
-__author__ = "Nadeem Kajla"
-__email__ = "nadeem.kajla@gmail.com"
+__author__ = "Nadeem Iqbal Kajla"
+__email__ = "nadeem.iqbal@mnsuam.edu.pk"
 
 def get_random_walks_for_one_node(node,neighbours,walks_per_node,steps):
     '''Performs several random walks from a given node'''
