@@ -3,8 +3,8 @@ import argparse
 import gensim
 import numpy as np
 
-__author__ = "Nadeem Kajla"
-__email__ = "nadeem.kajla@gmail.com"
+__author__ = "Nadeem Iqbal Kajla"
+__email__ = "nadeem.iqbal@mnsuam.edu.pk"
 
 import get_embeddings_uniform
 import get_embeddings_similar_neighbours
