@@ -4,8 +4,8 @@ import gensim
 from tqdm import tqdm
 import random
 
-__author__ = "Nadeem Kajla"
-__email__ = "nadeem.kajla@gmail.com"
+__author__ = "Nadeem Iqbal Kajla"
+__email__ = "nadeem.iqbal@mnsuam.edu.pk"
 
 
 from scipy.spatial import distance
